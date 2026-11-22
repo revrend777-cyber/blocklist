@@ -1,0 +1,11 @@
+# Guardian ad blocker blocklist
+# One domain per line. Lines starting with # are comments.
+# Each entry also blocks all of its subdomains.
+# Never block: Google, Apple, Microsoft, GitHub, Cloudflare, Cursor, AI tools, sign-in providers.
+
+# Starter entries (2026-11-22)
+scorecardresearch.com
+taboola.com
+outbrain.com
+adnxs.com
+criteo.com
