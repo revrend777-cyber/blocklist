@@ -10,6 +10,11 @@ outbrain.com
 adnxs.com
 criteo.com
 
+# Owner-requested blocks — never remove unless Cooper explicitly unblocks them
+# 2026-11-22: Innovid video ads (Peacock/Hulu), including s.innovid.com
+innovid.com
+s.innovid.com
+
 # Added 2026-11-22 from OISD small and StevenBlack unified hosts
 0-02.net
 0.ackzany.com
